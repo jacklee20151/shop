@@ -46,7 +46,7 @@
         <run.addResources>false</run.addResources>
         <spring-cloud.version>Brixton.SR5</spring-cloud.version>
         <spring-security.version>4.1.0.RELEASE</spring-security.version>
-        <spring-security-oauth2.version>2.0.9.RELEASE</spring-security-oauth2.version>
+        <spring-security-oauth2.version>2.0.18.RELEASE</spring-security-oauth2.version>
         <springfox.version>2.5.0</springfox.version>
         <!-- Sonar properties -->
         <project.testresult.directory>${project.build.directory}/test-results</project.testresult.directory>
